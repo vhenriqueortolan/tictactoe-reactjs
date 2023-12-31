@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 .eslintrc.cjs
+.github
+.releaserc.json
 
 # Editor directories and files
 .vscode/*
