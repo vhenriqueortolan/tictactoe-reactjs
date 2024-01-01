@@ -1,6 +1,6 @@
 # TicTacToe-ReactJS
 
-Este é um projeto de jogo da velha, feito com React. O objetivo é criar uma interface simples e interativa para jogar o clássico jogo da velha.
+Este é um projeto de jogo da velha, feito com ReactJS. O objetivo é criar uma interface simples e interativa para jogar o clássico jogo da velha.
 
 ## Indice
 
